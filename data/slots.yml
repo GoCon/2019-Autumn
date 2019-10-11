@@ -24,13 +24,13 @@
     end: 7
 - key: c-3h
   start: '10:25'
-  duration: 10
+  duration: 5
   row:
     start: 7
     end: 9
 - key: break1
-  start: '10:35'
-  duration: 15
+  start: '10:30'
+  duration: 20
   row:
     start: 9
     end: 10
@@ -120,18 +120,18 @@
     end: 35
 - key: c-14
   start: '18:00'
-  duration: 5
+  duration: 10
   row:
     start: 35
     end: 37
 - key: c-15
-  start: '18:05'
+  start: '18:10'
   duration: 5
   row:
     start: 37
     end: 39
 - key: closing
-  start: '18:10'
+  start: '18:15'
   duration: 10
   row:
     start: 39
