@@ -1,6 +1,6 @@
 ---
 key: avvmoto_stmasnotes
-name: avvmoto.stmasnotes
+name: imoty
 id: avvmoto_stmasnotes
 feature: false
 company: DeNA

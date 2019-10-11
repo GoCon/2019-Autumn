@@ -7,7 +7,7 @@ talkType: sponsor_session
 level: all
 tags:
   - C-3H
-partner: dena
+partner: mercari
 videoId: null
 presentation: null
 draft: false
