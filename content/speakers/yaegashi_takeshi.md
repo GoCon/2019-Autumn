@@ -3,7 +3,7 @@ key: yaegashi_takeshi
 name: YAEGASHI Takeshi
 id: yaegashi_takeshi
 feature: false
-company: Namco Bandai Studios Inc.
+company: Bandai Namco Studios Inc.
 photoURL: /images/speakers/speaker-yaegashi-takeshi.jpeg
 socials:
   - icon: twitter
