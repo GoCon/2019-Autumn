@@ -3,7 +3,7 @@ key: micnncim
 name: micnncim
 id: micnncim
 feature: false
-company: 
+company: Merpay (Intern)
 feature: false
 photoURL: /images/speakers/speaker-micnncim.png
 socials:
