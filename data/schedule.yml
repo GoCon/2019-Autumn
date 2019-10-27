@@ -81,8 +81,12 @@
       slots:
         - slot: chillout1
           talk: chillout
+        - slot: handson1
+          talk: handson
         - slot: chillout2
           talk: chillout
+        - slot: handson2
+          talk: handson
         - slot: party
           talk: party
         - slot: lt1

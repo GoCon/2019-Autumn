@@ -137,16 +137,28 @@
     start: 39
     end: 40
 - key: chillout1
-  start: '13:35'
+  start: '13:25'
   duration: 90
   row:
     start: 16
+    end: 22
+- key: handson1
+  start: '13:25'
+  duration: 90
+  row:
+    start: 17
     end: 22
 - key: chillout2
   start: '15:05'
   duration: 90
   row:
     start: 23
+    end: 29
+- key: handson2
+  start: '15:05'
+  duration: 90
+  row:
+    start: 24
     end: 29
 - key: party
   start: '18:35'

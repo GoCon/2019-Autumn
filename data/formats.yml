@@ -13,3 +13,7 @@
 - key: Sponsor Session
   name: 'Sponsor Session'
   id: sponsor_session
+- key: handson
+  name: 'Handson'
+  id: handson
+
