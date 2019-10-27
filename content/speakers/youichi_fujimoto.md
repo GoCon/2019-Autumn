@@ -3,7 +3,7 @@ key: youichi_fujimoto
 name: Youichi Fujimoto
 id: youichi_fujimoto
 feature: false
-company: MonotaRO Inc.
+company: MonotaRO Co., Ltd.
 photoURL: /images/speakers/speaker-youichi-fujimoto.jpeg
 socials:
   - icon: twitter
